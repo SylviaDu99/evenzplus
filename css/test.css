@@ -38,8 +38,6 @@ p{
     float: left;
     text-align: center;
     list-style-type: none;
-    padding-left: 0px;
-    padding-bottom: 8px;
     background-color: #8E41D5;
 }
 
@@ -70,7 +68,9 @@ ul{
 }
 
 #Footer{
+    border: solid 8px black;
     text-align: center;
+    background-color: #8E41D5;
 }
 
 .tiles{
@@ -78,6 +78,8 @@ ul{
 }
 
 #bow{
-
+    color: #FFBC00;
+    font-weight: bold;
+    font-size: 20px;
 }
 
